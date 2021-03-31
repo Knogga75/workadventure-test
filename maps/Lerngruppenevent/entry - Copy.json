@@ -28,7 +28,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"teleportUrl1",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"entry - Copy.json#hole2"
                 }],
@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"teleportUrl2",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"entry - Copy.json#hole1"
                 }],
@@ -62,6 +62,12 @@
          "id":38,
          "name":"start1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":36,
@@ -74,6 +80,12 @@
          "id":39,
          "name":"start2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":36,
