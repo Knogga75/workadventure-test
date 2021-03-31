@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"entry - Copy.json#hole2"
+                 "value":"entry2.json#hole2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"entry - Copy.json#hole1"
+                 "value":"entry2.json#hole1"
                 }],
          "type":"tilelayer",
          "visible":true,
